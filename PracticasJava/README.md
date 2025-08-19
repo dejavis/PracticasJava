@@ -1,10 +1,12 @@
-## Getting Started
+## Herramientas
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+- JDK 21
+- Visual Studio Code
+- Extension Java a VSC
 
-## Folder Structure
+## Instrucciones de uso del proyecto
 
-The workspace contains two folders by default, where:
+Tener instaladas las herramientas mencionadas con su configuración 
 
 - `src`: the folder to maintain sources
 - `lib`: the folder to maintain dependencies
